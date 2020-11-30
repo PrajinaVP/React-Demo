@@ -1,0 +1,28 @@
+{
+  "inventory": [
+    {
+      "id": 1,
+      "name": "Weetabix",
+      "category": "Cereal",
+      "unitPrice": "501"
+    },
+    {
+      "id": 2,
+      "name": "Colgate Toothpaste",
+      "category": "Toiletries",
+      "unitPrice": "119"
+    },
+    {
+      "id": 3,
+      "name": "Imperial Leather Soap",
+      "category": "Toiletries",
+      "unitPrice": "235"
+    },
+    {
+      "id": 4,
+      "name": "Sunlight Detergent",
+      "category": "Toiletries",
+      "unitPrice": "401"
+    }
+  ]
+}
